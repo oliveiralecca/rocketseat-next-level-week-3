@@ -1,0 +1,26 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+:root {
+   font-size: 62.5%; /* que equivale a 10px - pois 100% é 16px - a fonte padrão definida pelo navegador */
+}
+
+body {
+   height: 100vh;
+   color: white;
+   background: #EBF2F5; 
+}
+
+body, input, button, textarea {
+   font-weight: 400;
+   font-size: 1.8rem;
+   line-height: 1;
+   font-family: 'Nunito', sans-serif;
+
+   /* PROPRIEDADES AGRUPADAS = font: 400 1.8rem/1 'Nunito', sans-serif; */
+}
+
+
