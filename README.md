@@ -1,2 +1,2 @@
 # rocketseat-next-level-week-3
- Aplicação desenvolvida durante o evento NLW #3 da Rocketseat
+Application developed during the Rocketseat NLW # 3 event.
